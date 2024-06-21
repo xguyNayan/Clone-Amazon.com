@@ -25,7 +25,7 @@
     cursor: pointer;
 }   
 .logo{
-    background-image: url(pictures/logo.png);
+    background-image: url(logo.png);
     height: 50px;
     width: 113px;
     background-size: cover;
@@ -247,7 +247,7 @@
 /* Hero */
 
 .hero{
-    background-image: url(pictures/hero.jpg);
+    background-image: url(hero.jpg);
     background-size: cover;
     height: 400px;
     width: 100%;
